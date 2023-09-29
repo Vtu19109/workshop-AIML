@@ -1,1 +1,1 @@
-This is simple fil used for creating file in github platform in workshop based on AIML
+This is simple file used for working in github platform for workshop based on AIML
